@@ -845,8 +845,8 @@ pre code {
 .col-lg-12 {
   position: relative;
   min-height: 1px;
-  padding-right: 60px;
-  padding-left: 60px;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
 .col-xs-1,
